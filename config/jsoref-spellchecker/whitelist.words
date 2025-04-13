@@ -1402,6 +1402,7 @@ unsubscribe
 unusedcatchparametershouldbeunnamed
 unusedimports
 unusedlambdaparametershouldbeunnamed
+unusedtryresourceshouldbeunnamed
 unusedlocalvariable
 uppercased
 upperell
